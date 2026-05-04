@@ -1,0 +1,671 @@
+{"level":"info","message":"Application started successfully"}
+{"level":"info","message":"Successful login for user: admin@gmail.com"}
+{"level":"warn","message":"Invalid email format attempt: admin'"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: CyberSecurity"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: c:/Windows/system.ini"}
+{"level":"warn","message":"Invalid email format attempt: ../../../../../../../../../../../../../../../../Windows/system.ini"}
+{"level":"warn","message":"Invalid email format attempt: c:\\Windows\\system.ini"}
+{"level":"warn","message":"Invalid email format attempt: ..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Windows\\system.ini"}
+{"level":"warn","message":"Invalid email format attempt: /etc/passwd"}
+{"level":"warn","message":"Invalid email format attempt: ../../../../../../../../../../../../../../../../etc/passwd"}
+{"level":"warn","message":"Invalid email format attempt: /"}
+{"level":"info","message":"Search performed with query: c:&#x2F;Windows&#x2F;system.ini"}
+{"level":"warn","message":"Invalid email format attempt: ../../../../../../../../../../../../../../../../"}
+{"level":"warn","message":"Invalid email format attempt: c:/"}
+{"level":"warn","message":"Invalid email format attempt: c:\\"}
+{"level":"warn","message":"Invalid email format attempt: WEB-INF/web.xml"}
+{"level":"warn","message":"Invalid email format attempt: WEB-INF\\web.xml"}
+{"level":"warn","message":"Invalid email format attempt: /WEB-INF/web.xml"}
+{"level":"warn","message":"Invalid email format attempt: \\WEB-INF\\web.xml"}
+{"level":"warn","message":"Invalid email format attempt: thishouldnotexistandhopefullyitwillnot"}
+{"level":"warn","message":"Invalid email format attempt: login"}
+{"level":"warn","message":"Invalid email format attempt: /login"}
+{"level":"warn","message":"Invalid email format attempt: \\login"}
+{"level":"info","message":"Search performed with query: ..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;Windows&#x2F;system.ini"}
+{"level":"info","message":"Search performed with query: c:&#x5C;Windows&#x5C;system.ini"}
+{"level":"info","message":"Search performed with query: ..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;..&#x5C;Windows&#x5C;system.ini"}
+{"level":"info","message":"Search performed with query: &#x2F;etc&#x2F;passwd"}
+{"level":"info","message":"Search performed with query: ..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;etc&#x2F;passwd"}
+{"level":"info","message":"Search performed with query: &#x2F;"}
+{"level":"info","message":"Search performed with query: ..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;"}
+{"level":"info","message":"Search performed with query: c:&#x2F;"}
+{"level":"info","message":"Search performed with query: c:&#x5C;"}
+{"level":"info","message":"Search performed with query: WEB-INF&#x2F;web.xml"}
+{"level":"info","message":"Search performed with query: WEB-INF&#x5C;web.xml"}
+{"level":"info","message":"Search performed with query: &#x2F;WEB-INF&#x2F;web.xml"}
+{"level":"info","message":"Search performed with query: &#x5C;WEB-INF&#x5C;web.xml"}
+{"level":"info","message":"Search performed with query: thishouldnotexistandhopefullyitwillnot"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: http://www.google.com/"}
+{"level":"warn","message":"Invalid email format attempt: http://www.google.com:80/"}
+{"level":"warn","message":"Invalid email format attempt: http://www.google.com"}
+{"level":"warn","message":"Invalid email format attempt: http://www.google.com/search?q=ZAP"}
+{"level":"warn","message":"Invalid email format attempt: http://www.google.com:80/search?q=ZAP"}
+{"level":"warn","message":"Invalid email format attempt: www.google.com/"}
+{"level":"warn","message":"Invalid email format attempt: www.google.com:80/"}
+{"level":"warn","message":"Invalid email format attempt: www.google.com"}
+{"level":"warn","message":"Invalid email format attempt: www.google.com/search?q=ZAP"}
+{"level":"warn","message":"Invalid email format attempt: www.google.com:80/search?q=ZAP"}
+{"level":"info","message":"Search performed with query: http:&#x2F;&#x2F;www.google.com&#x2F;"}
+{"level":"info","message":"Search performed with query: http:&#x2F;&#x2F;www.google.com:80&#x2F;"}
+{"level":"info","message":"Search performed with query: http:&#x2F;&#x2F;www.google.com"}
+{"level":"info","message":"Search performed with query: http:&#x2F;&#x2F;www.google.com&#x2F;search?q=ZAP"}
+{"level":"info","message":"Search performed with query: http:&#x2F;&#x2F;www.google.com:80&#x2F;search?q=ZAP"}
+{"level":"info","message":"Search performed with query: www.google.com&#x2F;"}
+{"level":"info","message":"Search performed with query: www.google.com:80&#x2F;"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Search performed with query: www.google.com"}
+{"level":"info","message":"Search performed with query: www.google.com&#x2F;search?q=ZAP"}
+{"level":"info","message":"Search performed with query: www.google.com:80&#x2F;search?q=ZAP"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: () { :;}; echo 'x-powered-by: ShellShock-Vulnerable'"}
+{"level":"warn","message":"Invalid email format attempt: () { :;}; /bin/sleep 15"}
+{"level":"info","message":"Search performed with query: () { :;}; echo &#x27;x-powered-by: ShellShock-Vulnerable&#x27;"}
+{"level":"info","message":"Search performed with query: () { :;}; &#x2F;bin&#x2F;sleep 15"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Search performed with query: "}
+{"level":"warn","message":"Invalid email format attempt: undefined"}
+{"level":"warn","message":"Invalid email format attempt: undefined"}
+{"level":"warn","message":"Invalid email format attempt: undefined"}
+{"level":"warn","message":"Invalid email format attempt: undefined"}
+{"level":"warn","message":"Invalid email format attempt: 8437075362198472867.owasp.org"}
+{"level":"warn","message":"Invalid email format attempt: https://8437075362198472867.owasp.org"}
+{"level":"warn","message":"Invalid email format attempt: https://8437075362198472867%2eowasp%2eorg"}
+{"level":"warn","message":"Invalid email format attempt: 5;URL='https://8437075362198472867.owasp.org'"}
+{"level":"warn","message":"Invalid email format attempt: URL='http://8437075362198472867.owasp.org'"}
+{"level":"warn","message":"Invalid email format attempt: https://8437075362198472867.owasp.org/?zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: 5;URL='https://8437075362198472867.owasp.org/?zaproxy@example.com'"}
+{"level":"warn","message":"Invalid email format attempt: https://\\8437075362198472867.owasp.org"}
+{"level":"warn","message":"Invalid email format attempt: http://\\8437075362198472867.owasp.org"}
+{"level":"info","message":"Search performed with query: 8437075362198472867.owasp.org"}
+{"level":"info","message":"Search performed with query: https:&#x2F;&#x2F;8437075362198472867.owasp.org"}
+{"level":"info","message":"Search performed with query: https:&#x2F;&#x2F;8437075362198472867%2eowasp%2eorg"}
+{"level":"info","message":"Search performed with query: 5;URL=&#x27;https:&#x2F;&#x2F;8437075362198472867.owasp.org&#x27;"}
+{"level":"info","message":"Search performed with query: URL=&#x27;http:&#x2F;&#x2F;8437075362198472867.owasp.org&#x27;"}
+{"level":"info","message":"Search performed with query: https:&#x2F;&#x2F;8437075362198472867.owasp.org&#x2F;?test"}
+{"level":"info","message":"Search performed with query: 5;URL=&#x27;https:&#x2F;&#x2F;8437075362198472867.owasp.org&#x2F;?test&#x27;"}
+{"level":"info","message":"Search performed with query: https:&#x2F;&#x2F;&#x5C;8437075362198472867.owasp.org"}
+{"level":"info","message":"Search performed with query: http:&#x2F;&#x2F;&#x5C;8437075362198472867.owasp.org"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: <!--#EXEC cmd=\"ls /\"-->"}
+{"level":"warn","message":"Invalid email format attempt: \"><!--#EXEC cmd=\"ls /\"--><"}
+{"level":"warn","message":"Invalid email format attempt: <!--#EXEC cmd=\"dir \\\"-->"}
+{"level":"warn","message":"Invalid email format attempt: \"><!--#EXEC cmd=\"dir \\\"--><"}
+{"level":"info","message":"Search performed with query: &lt;!--#EXEC cmd=&quot;ls &#x2F;&quot;--&gt;"}
+{"level":"info","message":"Search performed with query: &quot;&gt;&lt;!--#EXEC cmd=&quot;ls &#x2F;&quot;--&gt;&lt;"}
+{"level":"info","message":"Search performed with query: &lt;!--#EXEC cmd=&quot;dir &#x5C;&quot;--&gt;"}
+{"level":"info","message":"Search performed with query: &quot;&gt;&lt;!--#EXEC cmd=&quot;dir &#x5C;&quot;--&gt;&lt;"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: 0W45pz4p"}
+{"level":"info","message":"Search performed with query: 0W45pz4p"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com0W45pz4p"}
+{"level":"info","message":"Search performed with query: &lt;&#x2F;p&gt;&lt;scrIpt&gt;alert(1);&lt;&#x2F;scRipt&gt;&lt;p&gt;"}
+{"level":"warn","message":"Invalid email format attempt: '\"<scrIpt>alert(1);</scRipt>"}
+{"level":"info","message":"Search performed with query: &lt;&#x2F;p&gt;\u0000&lt;scrIpt&gt;alert(1);&lt;&#x2F;scRipt&gt;&lt;p&gt;"}
+{"level":"warn","message":"Invalid email format attempt: '\"\u0000<scrIpt>alert(1);</scRipt>"}
+{"level":"info","message":"Search performed with query: &lt;&#x2F;p&gt;&lt;img src=x onerror=prompt()&gt;&lt;p&gt;"}
+{"level":"warn","message":"Invalid email format attempt: '\"<img src=x onerror=prompt()>"}
+{"level":"info","message":"Search performed with query: &lt;img src=x onerror=prompt()&gt;"}
+{"level":"info","message":"Search performed with query: ＜img src=x onerror=prompt()＞"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: zApPX0sS"}
+{"level":"info","message":"Search performed with query: zApPX2sS"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: '"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com'"}
+{"level":"warn","message":"Invalid email format attempt: \""}
+{"level":"info","message":"Search performed with query: &#x27;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\""}
+{"level":"warn","message":"Invalid email format attempt: ;"}
+{"level":"info","message":"Search performed with query: test&#x27;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com;"}
+{"level":"info","message":"Search performed with query: &quot;"}
+{"level":"info","message":"Search performed with query: test&quot;"}
+{"level":"info","message":"Search performed with query: ;"}
+{"level":"info","message":"Search performed with query: test;"}
+{"level":"info","message":"Search performed with query: &#x27;("}
+{"level":"info","message":"Search performed with query: test&#x27;("}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"warn","message":"Invalid email format attempt: '("}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com'("}
+{"level":"info","message":"Search performed with query: test AND 1=1 -- "}
+{"level":"info","message":"Search performed with query: test AND 1=2 -- "}
+{"level":"info","message":"Search performed with query: test OR 1=1 -- "}
+{"level":"info","message":"Search performed with query: test&#x27; AND &#x27;1&#x27;=&#x27;1&#x27; -- "}
+{"level":"info","message":"Search performed with query: test&quot; AND &quot;1&quot;=&quot;1&quot; -- "}
+{"level":"info","message":"Search performed with query: test&quot; AND &quot;1&quot;=&quot;2&quot; -- "}
+{"level":"info","message":"Search performed with query: test&quot; OR &quot;1&quot;=&quot;1&quot; -- "}
+{"level":"info","message":"Search performed with query: test UNION ALL select NULL -- "}
+{"level":"info","message":"Search performed with query: test&#x27; UNION ALL select NULL -- "}
+{"level":"info","message":"Search performed with query: test&quot; UNION ALL select NULL -- "}
+{"level":"info","message":"Search performed with query: test) UNION ALL select NULL -- "}
+{"level":"info","message":"Search performed with query: test&#x27;) UNION ALL select NULL -- "}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com AND 1=1 -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' AND '1'='1' -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" AND \"1\"=\"1\" -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com AND 1=1"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' AND '1'='1"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" AND \"1\"=\"1"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com UNION ALL select NULL -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' UNION ALL select NULL -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" UNION ALL select NULL -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com) UNION ALL select NULL -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com') UNION ALL select NULL -- "}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com / sleep(15) "}
+{"level":"info","message":"Search performed with query: test &#x2F; sleep(15) "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' / sleep(15) / '"}
+{"level":"info","message":"Search performed with query: test&#x27; &#x2F; sleep(15) &#x2F; &#x27;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" / sleep(15) / \""}
+{"level":"info","message":"Search performed with query: test&quot; &#x2F; sleep(15) &#x2F; &quot;"}
+{"level":"info","message":"Search performed with query: test and 0 in (select sleep(15) ) -- "}
+{"level":"info","message":"Search performed with query: test&#x27; and 0 in (select sleep(15) ) -- "}
+{"level":"info","message":"Search performed with query: test&quot; and 0 in (select sleep(15) ) -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com and 0 in (select sleep(15) ) -- "}
+{"level":"info","message":"Search performed with query: test where 0 in (select sleep(15) ) -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' and 0 in (select sleep(15) ) -- "}
+{"level":"info","message":"Search performed with query: test&#x27; where 0 in (select sleep(15) ) -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" and 0 in (select sleep(15) ) -- "}
+{"level":"info","message":"Search performed with query: test&quot; where 0 in (select sleep(15) ) -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com where 0 in (select sleep(15) ) -- "}
+{"level":"info","message":"Search performed with query: test or 0 in (select sleep(15) ) -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' where 0 in (select sleep(15) ) -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" where 0 in (select sleep(15) ) -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com or 0 in (select sleep(15) ) -- "}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: ; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- "}
+{"level":"warn","message":"Invalid email format attempt: '; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- "}
+{"level":"warn","message":"Invalid email format attempt: \"; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- "}
+{"level":"warn","message":"Invalid email format attempt: ); select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- "}
+{"level":"warn","message":"Invalid email format attempt: \"java.lang.Thread.sleep\"(15000)"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com / \"java.lang.Thread.sleep\"(15000) "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' / \"java.lang.Thread.sleep\"(15000) / '"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" / \"java.lang.Thread.sleep\"(15000) / \""}
+{"level":"info","message":"Search performed with query: ; select &quot;java.lang.Thread.sleep&quot;(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = &#x27;SYSTEM_COLUMNS&#x27; and COLUMN_NAME = &#x27;TABLE_NAME&#x27; -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com and exists ( select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME') -- "}
+{"level":"info","message":"Search performed with query: &#x27;; select &quot;java.lang.Thread.sleep&quot;(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = &#x27;SYSTEM_COLUMNS&#x27; and COLUMN_NAME = &#x27;TABLE_NAME&#x27; -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' and exists ( select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME') -- "}
+{"level":"info","message":"Search performed with query: &quot;; select &quot;java.lang.Thread.sleep&quot;(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = &#x27;SYSTEM_COLUMNS&#x27; and COLUMN_NAME = &#x27;TABLE_NAME&#x27; -- "}
+{"level":"info","message":"Search performed with query: ); select &quot;java.lang.Thread.sleep&quot;(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = &#x27;SYSTEM_COLUMNS&#x27; and COLUMN_NAME = &#x27;TABLE_NAME&#x27; -- "}
+{"level":"info","message":"Search performed with query: &quot;java.lang.Thread.sleep&quot;(15000)"}
+{"level":"info","message":"Search performed with query: test &#x2F; &quot;java.lang.Thread.sleep&quot;(15000) "}
+{"level":"info","message":"Search performed with query: test&#x27; &#x2F; &quot;java.lang.Thread.sleep&quot;(15000) &#x2F; &#x27;"}
+{"level":"info","message":"Search performed with query: test&quot; &#x2F; &quot;java.lang.Thread.sleep&quot;(15000) &#x2F; &quot;"}
+{"level":"info","message":"Search performed with query: test and exists ( select &quot;java.lang.Thread.sleep&quot;(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = &#x27;SYSTEM_COLUMNS&#x27; and COLUMN_NAME = &#x27;TABLE_NAME&#x27;) -- "}
+{"level":"info","message":"Search performed with query: test&#x27; and exists ( select &quot;java.lang.Thread.sleep&quot;(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = &#x27;SYSTEM_COLUMNS&#x27; and COLUMN_NAME = &#x27;TABLE_NAME&#x27;) -- "}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: (DBMS_SESSION.SLEEP(15))"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com / (DBMS_SESSION.SLEEP(15)) "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' / (DBMS_SESSION.SLEEP(15)) / '"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" / (DBMS_SESSION.SLEEP(15)) / \""}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com and exists (DBMS_SESSION.SLEEP(15)) -- "}
+{"level":"info","message":"Search performed with query: (DBMS_SESSION.SLEEP(15))"}
+{"level":"info","message":"Search performed with query: test &#x2F; (DBMS_SESSION.SLEEP(15)) "}
+{"level":"info","message":"Search performed with query: test&#x27; &#x2F; (DBMS_SESSION.SLEEP(15)) &#x2F; &#x27;"}
+{"level":"info","message":"Search performed with query: test&quot; &#x2F; (DBMS_SESSION.SLEEP(15)) &#x2F; &quot;"}
+{"level":"info","message":"Search performed with query: test and exists (DBMS_SESSION.SLEEP(15)) -- "}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end"}
+{"level":"warn","message":"Invalid email format attempt: case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- "}
+{"level":"info","message":"Search performed with query: case when cast(pg_sleep(15.0) as varchar) &gt; &#x27;&#x27; then 0 else 1 end"}
+{"level":"warn","message":"Invalid email format attempt: 'case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- "}
+{"level":"info","message":"Search performed with query: case when cast(pg_sleep(15.0) as varchar) &gt; &#x27;&#x27; then 0 else 1 end -- "}
+{"level":"warn","message":"Invalid email format attempt: \"case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- "}
+{"level":"info","message":"Search performed with query: &#x27;case when cast(pg_sleep(15.0) as varchar) &gt; &#x27;&#x27; then 0 else 1 end -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com / case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end "}
+{"level":"info","message":"Search performed with query: &quot;case when cast(pg_sleep(15.0) as varchar) &gt; &#x27;&#x27; then 0 else 1 end -- "}
+{"level":"info","message":"Search performed with query: test &#x2F; case when cast(pg_sleep(15.0) as varchar) &gt; &#x27;&#x27; then 0 else 1 end "}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com WAITFOR DELAY '0:0:15' -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com' WAITFOR DELAY '0:0:15' -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\" WAITFOR DELAY '0:0:15' -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com) WAITFOR DELAY '0:0:15' -- "}
+{"level":"info","message":"Search performed with query: test WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com) ' WAITFOR DELAY '0:0:15' -- "}
+{"level":"info","message":"Search performed with query: test&#x27; WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com) \" WAITFOR DELAY '0:0:15' -- "}
+{"level":"info","message":"Search performed with query: test&quot; WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"info","message":"Search performed with query: test) WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com)) WAITFOR DELAY '0:0:15' -- "}
+{"level":"info","message":"Search performed with query: test) &#x27; WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com)) ' WAITFOR DELAY '0:0:15' -- "}
+{"level":"info","message":"Search performed with query: test) &quot; WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com)) \" WAITFOR DELAY '0:0:15' -- "}
+{"level":"info","message":"Search performed with query: test)) WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com) WAITFOR DELAY '0:0:15' ("}
+{"level":"info","message":"Search performed with query: test)) &#x27; WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"info","message":"Search performed with query: test)) &quot; WAITFOR DELAY &#x27;0:0:15&#x27; -- "}
+{"level":"info","message":"Search performed with query: test) WAITFOR DELAY &#x27;0:0:15&#x27; ("}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: undefined"}
+{"level":"warn","message":"Invalid email format attempt: undefined"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: \";print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var=\""}
+{"level":"warn","message":"Invalid email format attempt: undefined"}
+{"level":"warn","message":"Invalid email format attempt: ';print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var='"}
+{"level":"warn","message":"Invalid email format attempt: ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}"}
+{"level":"warn","message":"Invalid email format attempt: ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}\\"}
+{"level":"warn","message":"Invalid email format attempt: ;print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));"}
+{"level":"warn","message":"Invalid email format attempt: \"+response.write(855,099*641,853)+\""}
+{"level":"warn","message":"Invalid email format attempt: +response.write({0}*{1})+"}
+{"level":"warn","message":"Invalid email format attempt: response.write(855,099*641,853)"}
+{"level":"info","message":"Search performed with query: &quot;;print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var=&quot;"}
+{"level":"info","message":"Search performed with query: &#x27;;print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var=&#x27;"}
+{"level":"info","message":"Search performed with query: ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}"}
+{"level":"info","message":"Search performed with query: ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}&#x5C;"}
+{"level":"info","message":"Search performed with query: ;print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));"}
+{"level":"info","message":"Search performed with query: &quot;+response.write(655,404*898,018)+&quot;"}
+{"level":"info","message":"Search performed with query: +response.write({0}*{1})+"}
+{"level":"info","message":"Search performed with query: response.write(655,404*898,018)"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: cat /etc/passwd"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com&cat /etc/passwd&"}
+{"level":"info","message":"Search performed with query: cat &#x2F;etc&#x2F;passwd"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com;cat /etc/passwd;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\"&cat /etc/passwd&\""}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\";cat /etc/passwd;\""}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com'&cat /etc/passwd&'"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com';cat /etc/passwd;'"}
+{"level":"warn","message":"Invalid email format attempt: type %SYSTEMROOT%\\win.ini"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com&type %SYSTEMROOT%\\win.ini"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com|type %SYSTEMROOT%\\win.ini"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\"&type %SYSTEMROOT%\\win.ini&\""}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\"|type %SYSTEMROOT%\\win.ini"}
+{"level":"info","message":"Search performed with query: test&amp;cat &#x2F;etc&#x2F;passwd&amp;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com'&type %SYSTEMROOT%\\win.ini&'"}
+{"level":"info","message":"Search performed with query: test;cat &#x2F;etc&#x2F;passwd;"}
+{"level":"info","message":"Search performed with query: test&quot;&amp;cat &#x2F;etc&#x2F;passwd&amp;&quot;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com'|type %SYSTEMROOT%\\win.ini"}
+{"level":"info","message":"Search performed with query: test&quot;;cat &#x2F;etc&#x2F;passwd;&quot;"}
+{"level":"info","message":"Search performed with query: test&#x27;&amp;cat &#x2F;etc&#x2F;passwd&amp;&#x27;"}
+{"level":"info","message":"Search performed with query: test&#x27;;cat &#x2F;etc&#x2F;passwd;&#x27;"}
+{"level":"info","message":"Search performed with query: type %SYSTEMROOT%&#x5C;win.ini"}
+{"level":"info","message":"Search performed with query: test&amp;type %SYSTEMROOT%&#x5C;win.ini"}
+{"level":"info","message":"Search performed with query: test|type %SYSTEMROOT%&#x5C;win.ini"}
+{"level":"info","message":"Search performed with query: test&quot;&amp;type %SYSTEMROOT%&#x5C;win.ini&amp;&quot;"}
+{"level":"info","message":"Search performed with query: test&quot;|type %SYSTEMROOT%&#x5C;win.ini"}
+{"level":"warn","message":"Invalid email format attempt: get-help"}
+{"level":"info","message":"Search performed with query: test&#x27;&amp;type %SYSTEMROOT%&#x5C;win.ini&amp;&#x27;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com;get-help"}
+{"level":"info","message":"Search performed with query: test&#x27;|type %SYSTEMROOT%&#x5C;win.ini"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\";get-help"}
+{"level":"info","message":"Search performed with query: get-help"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com';get-help"}
+{"level":"info","message":"Search performed with query: test;get-help"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com;get-help #"}
+{"level":"info","message":"Search performed with query: test&quot;;get-help"}
+{"level":"info","message":"Search performed with query: test&#x27;;get-help"}
+{"level":"info","message":"Search performed with query: test;get-help #"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: \"'"}
+{"level":"warn","message":"Invalid email format attempt: <!--"}
+{"level":"warn","message":"Invalid email format attempt: ]]>"}
+{"level":"info","message":"Search performed with query: &quot;&#x27;"}
+{"level":"info","message":"Search performed with query: &lt;!--"}
+{"level":"info","message":"Search performed with query: ]]&gt;"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: zj 9160*3774 zj"}
+{"level":"warn","message":"Invalid email format attempt: zj{8963*6924}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj${8695*7291}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj#{3631*3357}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj{#4625*3857}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj{@2137*4207}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj{{7463*6563}}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj{{=6786*4654}}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj<%=2668*8654%>zj"}
+{"level":"warn","message":"Invalid email format attempt: zj#set($x=9380*2691)${x}zj"}
+{"level":"info","message":"Search performed with query: zj 1388*5114 zj"}
+{"level":"warn","message":"Invalid email format attempt: zj<p th:text=\"${3392*5504}\"></p>zj"}
+{"level":"info","message":"Search performed with query: zj{7006*5262}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj{@math key=\"5839\" method=\"multiply\" operand=\"6870\"/}zj"}
+{"level":"info","message":"Search performed with query: zj${2502*3546}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj{{16950|add:91090}}zj"}
+{"level":"info","message":"Search performed with query: zj#{2014*6319}zj"}
+{"level":"warn","message":"Invalid email format attempt: zj{{print \"2306\" \"6939\"}}zj"}
+{"level":"info","message":"Search performed with query: zj{#1724*8515}zj"}
+{"level":"info","message":"Search performed with query: zj{@1948*4127}zj"}
+{"level":"info","message":"Search performed with query: zj{{8718*9335}}zj"}
+{"level":"info","message":"Search performed with query: zj{{=4487*2657}}zj"}
+{"level":"info","message":"Search performed with query: zj&lt;%=3463*8149%&gt;zj"}
+{"level":"info","message":"Search performed with query: zj#set($x=8269*7260)${x}zj"}
+{"level":"info","message":"Search performed with query: zj&lt;p th:text=&quot;${5491*7538}&quot;&gt;&lt;&#x2F;p&gt;zj"}
+{"level":"info","message":"Search performed with query: zj{@math key=&quot;7594&quot; method=&quot;multiply&quot; operand=&quot;3758&quot;&#x2F;}zj"}
+{"level":"info","message":"Search performed with query: zj{{38300|add:89850}}zj"}
+{"level":"info","message":"Search performed with query: zj{{print &quot;8277&quot; &quot;6771&quot;}}zj"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: <#assign ex=\"freemarker.template.utility.Execute\"?new()> ${ ex(\"sleep 15\") }"}
+{"level":"warn","message":"Invalid email format attempt: #set($engine=\"\")\n#set($proc=$engine.getClass().forName(\"java.lang.Runtime\").getRuntime().exec(\"sleep 15\"))\n#set($null=$proc.waitFor())\n${null}"}
+{"level":"info","message":"Search performed with query: &lt;#assign ex=&quot;freemarker.template.utility.Execute&quot;?new()&gt; ${ ex(&quot;sleep 15&quot;) }"}
+{"level":"warn","message":"Invalid email format attempt: {{= global.process.mainModule.require('child_process').execSync('sleep 15').toString() }}"}
+{"level":"info","message":"Search performed with query: #set($engine=&quot;&quot;)\n#set($proc=$engine.getClass().forName(&quot;java.lang.Runtime&quot;).getRuntime().exec(&quot;sleep 15&quot;))\n#set($null=$proc.waitFor())\n${null}"}
+{"level":"warn","message":"Invalid email format attempt: <%= global.process.mainModule.require('child_process').execSync('sleep 15').toString()%>"}
+{"level":"info","message":"Search performed with query: {{= global.process.mainModule.require(&#x27;child_process&#x27;).execSync(&#x27;sleep 15&#x27;).toString() }}"}
+{"level":"warn","message":"Invalid email format attempt: #{global.process.mainModule.require('child_process').execSync('sleep 15').toString()}"}
+{"level":"info","message":"Search performed with query: &lt;%= global.process.mainModule.require(&#x27;child_process&#x27;).execSync(&#x27;sleep 15&#x27;).toString()%&gt;"}
+{"level":"warn","message":"Invalid email format attempt: {{range.constructor(\"return eval(\\\"global.process.mainModule.require('child_process').execSync('sleep 15').toString()\\\")\")()}}"}
+{"level":"info","message":"Search performed with query: #{global.process.mainModule.require(&#x27;child_process&#x27;).execSync(&#x27;sleep 15&#x27;).toString()}"}
+{"level":"warn","message":"Invalid email format attempt: {{\"\".__class__.__mro__[1].__subclasses__()[157].__repr__.__globals__.get(\"__builtins__\").get(\"__import__\")(\"subprocess\").check_output(\"sleep 15\")}}"}
+{"level":"info","message":"Search performed with query: {{range.constructor(&quot;return eval(&#x5C;&quot;global.process.mainModule.require(&#x27;child_process&#x27;).execSync(&#x27;sleep 15&#x27;).toString()&#x5C;&quot;)&quot;)()}}"}
+{"level":"warn","message":"Invalid email format attempt: ${__import__(\"subprocess\").check_output(\"sleep 15\", shell=True)}"}
+{"level":"info","message":"Search performed with query: {{&quot;&quot;.__class__.__mro__[1].__subclasses__()[157].__repr__.__globals__.get(&quot;__builtins__&quot;).get(&quot;__import__&quot;)(&quot;subprocess&quot;).check_output(&quot;sleep 15&quot;)}}"}
+{"level":"warn","message":"Invalid email format attempt: {{__import__(\"subprocess\").check_output(\"sleep 15\", shell=True)}}"}
+{"level":"info","message":"Search performed with query: ${__import__(&quot;subprocess&quot;).check_output(&quot;sleep 15&quot;, shell=True)}"}
+{"level":"info","message":"Search performed with query: {{__import__(&quot;subprocess&quot;).check_output(&quot;sleep 15&quot;, shell=True)}}"}
+{"level":"warn","message":"Invalid email format attempt: <%=%x(sleep 15)%>"}
+{"level":"info","message":"Search performed with query: &lt;%=%x(sleep 15)%&gt;"}
+{"level":"warn","message":"Invalid email format attempt: #{%x(sleep 15)}"}
+{"level":"info","message":"Search performed with query: #{%x(sleep 15)}"}
+{"level":"warn","message":"Invalid email format attempt: {system(\"sleep 15\")}"}
+{"level":"info","message":"Search performed with query: {system(&quot;sleep 15&quot;)}"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com&sleep 15.0&"}
+{"level":"info","message":"Search performed with query: test&amp;sleep 15.0&amp;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com;sleep 15.0;"}
+{"level":"info","message":"Search performed with query: test;sleep 15.0;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\"&sleep 15.0&\""}
+{"level":"info","message":"Search performed with query: test&quot;&amp;sleep 15.0&amp;&quot;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\";sleep 15.0;\""}
+{"level":"info","message":"Search performed with query: test&quot;;sleep 15.0;&quot;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com'&sleep 15.0&'"}
+{"level":"info","message":"Search performed with query: test&#x27;&amp;sleep 15.0&amp;&#x27;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com';sleep 15.0;'"}
+{"level":"info","message":"Search performed with query: test&#x27;;sleep 15.0;&#x27;"}
+{"level":"info","message":"Search performed with query: test&amp;timeout &#x2F;T 15.0"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com&timeout /T 15.0"}
+{"level":"info","message":"Search performed with query: test|timeout &#x2F;T 15.0"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com|timeout /T 15.0"}
+{"level":"info","message":"Search performed with query: test&quot;&amp;timeout &#x2F;T 15.0&amp;&quot;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\"&timeout /T 15.0&\""}
+{"level":"info","message":"Search performed with query: test&quot;|timeout &#x2F;T 15.0"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\"|timeout /T 15.0"}
+{"level":"info","message":"Search performed with query: test&#x27;&amp;timeout &#x2F;T 15.0&amp;&#x27;"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com'&timeout /T 15.0&'"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com'|timeout /T 15.0"}
+{"level":"info","message":"Search performed with query: test&#x27;|timeout &#x2F;T 15.0"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com;start-sleep -s 15.0"}
+{"level":"info","message":"Search performed with query: test;start-sleep -s 15.0"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com\";start-sleep -s 15.0"}
+{"level":"info","message":"Search performed with query: test&quot;;start-sleep -s 15.0"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com';start-sleep -s 15.0"}
+{"level":"info","message":"Search performed with query: test&#x27;;start-sleep -s 15.0"}
+{"level":"warn","message":"Invalid email format attempt: zaproxy@example.com;start-sleep -s 15.0 #"}
+{"level":"info","message":"Search performed with query: test;start-sleep -s 15.0 #"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Search performed with query: "}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Search performed with query: DOTJpCntuIaapdAeVYCgeiEirMEQDmdvkTXeHNXtwpePqdLuuThiijLabyESIMsKChtElPEAfNDSidgKmhKaoVbeRQtlWIuXAlgVamwQLvlNlOTYJtBCGjsXUIDunCFoBMMqRGXOuUsHvAFwWIvlrWjOYAMTGLLLRKvKRiixtCmgEqBHyMMZCrWgRiHCiZdvgmikoFwZaoFHivClmkRMPZIMvWvuUILsEZLVPrikyIYODHhDjTgDPhRNfWjIMDnoHuOWZVvoWkZkpemYCHPruRlQNifkHDYmPYIINDypihRxnQYOoKjOKxDGOaXhfHCKoyFOiewajCJikKcexGLCmmDfHEXKfSglEriQWavYGppYHtYdimfsqKqVDpdUBTCMDGYvuNMjdlHVRoElefpijCJwOfiiogvZklNlSEgSfbMAajuQyyDxhTvHEwPLmPVZCWPAaYmvAcGHWoUgEkLUfuNfjgVIvRsKFqLJUOTLkjEalChnQaZplQuUdfcQJbMpdJeWPLNnHLgXUNffllDcsSDhNFagZocDCThLOFynhSbISxUDblZOMuVXKLAtjBpxbiWHdASHFkriWWhyauGTXPBlBDOTSjqGBQprLYVGVumgqGrJxirOQXfTOrxJuiTaHmHaGaEgadoirjsmXTLqwlFHcrKpiRulRIilKdNTlHUAtOsckrsichKXWQcrpAMvapABNoFAvLJSxSsgoWpMmtjMMmMsPCoqUcixnoKFwthcyVWHLdyXbeDgYynRYnBXnHNbHijvLFPYYYFCkIeqrjhmkHgNOTGtfhqGGfvBNxWRMoqcajWBwvaquASWJZmyEjhBcmYQMRCdvVcEdLMweSFwqCPTRNYOrqvSabPIJtDgoZDKcZDMMRoXMerbgXfqhmgeuajYwAagaojBZPBdZTNkwlBXcQtNgObKuRohVyeEKwfAMJfWCUPOcceYgCGwdxjnFepKdULsaQYxkvnQjmEHfliOGRJCjmltvVYgHkoElGNWHqqPPbkjcBOCUTUovMlXfJPLGiXAlQrNBQrDYcgTDVGVVhKgCCDVCqmDaxSNyOWYEjLIwPDHskHXuUUZHEvHQaOLsmagVtKiLiQZrfFpoMChTQbGOTURQqvcMkFVstaDGCVAQRNhRkDBBsAPCvAQRuaOIvJHgtkirgGqUShtMEKrMrRRoVtJsoFwgDdyRFNojTXRikqOmfiDTHagfQvHPdtrSlStdFfuDhTUVxDuYOfGWxWGteXoZMHZPXxpnaQhgRMsVltHvyGHiYutSyihOAWYBZHHluHFFebsmXwONFkVdfCKxKiGTHDSywgYCYSDKgsIgmbemVUrIuqSTQfjSFJwttXNnPejROgfPIaJxOrjdukyxFyQQmZaPOWKBAJuyjpBxtoSAibcxyxXoVViKjlmCVrEHiNfXrISskscXoqwEOsApCMKmODqrcJNrOQWtFpQJjgKCCXXOxDTydjuRhaRRKSEnSGyAhHmuproNhJIAuPcVBCETYxJMPQVUecJLUqeAFWbUolmqfthXBBxhCqcMaNnVdurvBqyoVEEoOdrsFGLFMnFaKHiRUsJYrEpMVhLlXGoLXqlxYUqWZbAiHDPnANgllJJXclWtgGOXaKyvmYdoputnbMwnsXcLIQUyPYNPhsHtFFkwjHvODWnUCvENuhOiQuvcNBpyTxjHBYmfThuLXGUbfXKrwULdtcyspiGBivFkVcDnUblXncovKqLFHaqjoqhrvHAfMdmOyLdBSmVfwjVbsaxPkgtgfZIjSbjoSHHqlbwvdMiQHPtfefqBWAogaLhqTxQlepENZbeacdBLvHoNODQowLDuHDTuuEIaoyrnwJoJFtUCRyEASrqKTjqcfKQmKusKPEYfhNBLkCJTZZtFFCeEeeFFMmbPFCEmOjoyjiAKPKowCaNJHmPkeZFpHyhdwJYrGqqQmVHLYeUSbbSUmmYhmSmtNTVlSJFUCNwovpVHynrFqfANLSheJWZtrgsNZMOXxgXArJMaXeLqrlEqAhWbJFPteAyeFxwWdAhQUArDAaBwDRmHCfbKKDccEqwWsfKYFEmMqsdMiHVVebgsiZwHYcbMPBSMIEY"}
+{"level":"warn","message":"Invalid email format attempt: KsMkpwwUmGMcQqDnjflyqgXFXrpEESjZTdobNsDpPhVrtshTOgTUUQwuKCYBxSrmOVRhoEYtBFniuYXbFPlJgsbjEYvTecQVPDiCyVXDKMVMVTUrtwtJvMwIfkkTJkLuUOIuPiYFSdnoiWgVcYFNQKsfAJGfRctoCRmsKXATSpePYFHSVpgNbYcDscDSPyrRNdlVwygmpyRhRqrMXsNtIAtscrwJjufgPWhdlnVMngLPTGExrVyHnhAPsbmvVeXkkNyNiykbyyVCwoMLlkiSAmoSgCLGjRBJJgynulCnglWZiKtFTyUDWpdUmDCGuabiBMmrYxjmoABkKxDRgpDXILXWwyRPpTmQxgakYJjZDCNhZqFQEMoYsFacxphuINljcRqXMYyMnpIOiBfGrDenZWXSTPdNTLVLJElESMVTkMVOZWhgkeDNxXRJZOFDMGUPLfBGTdpKuHOoxaXCbyQEjteVythHppXQgCgofWXXNeObWCEBdoRCHenXSFGWkbFGoEFFEbACeUjWytpkQuJvbFpnrXbmtOhSncbbqvlcmdJejWMTkjKYuykxCDOCNYARypmPqmejxsRPLNWcuvgDDZrREnEJOydiKWvrgqeHoPsstHgRVIsTicPJDpMtDdBGOBbhRKQZUcgHqHFHBZHFObJJRvmWGpJHmpZtrIqRGMrCwLESZlwQfGBmBLahuHlQvmHyQRPAoUXysFKGUKNfjGLRKBsQPhpNnvBxwttFuVBjZZNKhUjXQwSJKdSwDjfJejqSseOXZaLBMdOethPjRbIfVNnCgcUABfoUNZqJfKQHvxBykdRVvWrdKrgYjxTjvOqMRBvWWKUDZOPnJhEbwTvuClssJFcXbbtqraCbRyBmwgAHUdgBfYyMbVaCTVPKJFQEydRuvDKASrryILlsvtvdAeubAmKcojTHNRGJZZCIFkRUIihxBCBfhWKBADaSDttmeNtPSNwprSlsxqAWWnLHYmVAwxbLEvKujONdKbxcgBZdaYhrkTNsGrxveWcpGhNNkjUNnRjUFHNjZTKFqZBPlOGluUELBAVMprYLoFxmmtGgerUcSWtlgqaRhCQuZRmcearvZgDiEoEYvEMtEDeiiwdQhHNqdxyljYYhcqDZNYKhHEQecYdbXKOYqQrYFHQeOtQnsHuVbtUhZJEwdiDCkHkBcGZYutiaXNdiYeZAdMKbtbrwlNZrjfwxvIRhFwKuneuKweMkcqLdBkWmJSGeXRyHTkdDrTPFpHVKUEwBrnKGjEIYiAGOQNGdhBQsujJaaAxRyueeujgPekAmpaLHxbAUAQHjvJcrVljeqUSAaflHJAGElgFmnOOXnTuBqVjTFJLDYbMBXdbrnSbtEBZjmKTuXqHnfUVDiafaebADdcwyjAyIxNONTflbNLdJhHoDqwytUdISwPnYwkHxEOrQcnfFeTErNOFJZixsRrergEejUbIqTMHKNsvlSIirOYuKQursarfLpGmIYQcrLCQyXaCkkMhdWeyHQVsNNtxbdwILNigWCmawOkPTvuXjvTvoAAyBLguwLWgjXNgpcpuVhTfXAksuvNUuLfImWHyGyNClHEFLBcigbCToYATLIuhYEdiQpaHEyoctKyOYOGiLqIAUULrpguXwkwujgfNwsViaHwVrsOqTgBPclkFBMaxVwRXoIEPNGWEPyZpbVeZYTOXaNjuLRYtnoLgUqchLguJIrPwjDBFbWwPgndbkWEMIPAUvBFjENPLvpjRuHMlaSirSwygrNqhrOWMhWNjoniHrpSFOWXHumpVRLpqjRxmwGagZvpQEPKrXBBCGcqIDXhYUTxqHumJbqsprYmvNNroHnEkoexXkmmVomZSBUNgoBwftvJCRURSajgbpsInSAHYTsebvUUNfTgOuiAAqjwHtQGkUObpVjeuaZwpwZqdDdrhYHZrrcFuKOkXYwqjNiVhCrxPqHWowKBGMVQenVijdKYdveEZtjHGVBDibRtbeFKlojUYoPUMGFjeBAGCgapWRnWcShsIWxmNpIfpohoIftlVEIUtrjxQwhbDnlOVrheRrQuXdRXFDqygPIHiJVMqoWtCXWUVmUKyScVCCAwSvunFK"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: ZAP"}
+{"level":"warn","message":"Invalid email format attempt: ZAP%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s\n"}
+{"level":"warn","message":"Invalid email format attempt: ZAP %1!s%2!s%3!s%4!s%5!s%6!s%7!s%8!s%9!s%10!s%11!s%12!s%13!s%14!s%15!s%16!s%17!s%18!s%19!s%20!s%21!n%22!n%23!n%24!n%25!n%26!n%27!n%28!n%29!n%30!n%31!n%32!n%33!n%34!n%35!n%36!n%37!n%38!n%39!n%40!n\n"}
+{"level":"info","message":"Search performed with query: ZAP"}
+{"level":"info","message":"Search performed with query: ZAP%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s\n"}
+{"level":"info","message":"Search performed with query: ZAP %1!s%2!s%3!s%4!s%5!s%6!s%7!s%8!s%9!s%10!s%11!s%12!s%13!s%14!s%15!s%16!s%17!s%18!s%19!s%20!s%21!n%22!n%23!n%24!n%25!n%26!n%27!n%28!n%29!n%30!n%31!n%32!n%33!n%34!n%35!n%36!n%37!n%38!n%39!n%40!n\n"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: Set-cookie: Tamper=98fcb78a-0726-46b5-bbd8-926caed23cc5"}
+{"level":"warn","message":"Invalid email format attempt: any\r\nSet-cookie: Tamper=98fcb78a-0726-46b5-bbd8-926caed23cc5"}
+{"level":"warn","message":"Invalid email format attempt: any?\r\nSet-cookie: Tamper=98fcb78a-0726-46b5-bbd8-926caed23cc5"}
+{"level":"warn","message":"Invalid email format attempt: any\nSet-cookie: Tamper=98fcb78a-0726-46b5-bbd8-926caed23cc5"}
+{"level":"warn","message":"Invalid email format attempt: any?\nSet-cookie: Tamper=98fcb78a-0726-46b5-bbd8-926caed23cc5"}
+{"level":"warn","message":"Invalid email format attempt: any\r\nSet-cookie: Tamper=98fcb78a-0726-46b5-bbd8-926caed23cc5\r\n"}
+{"level":"warn","message":"Invalid email format attempt: any?\r\nSet-cookie: Tamper=98fcb78a-0726-46b5-bbd8-926caed23cc5\r\n"}
+{"level":"info","message":"Search performed with query: Set-cookie: Tamper=f0e32251-7595-4219-8905-30118fd1985a"}
+{"level":"info","message":"Search performed with query: any\r\nSet-cookie: Tamper=f0e32251-7595-4219-8905-30118fd1985a"}
+{"level":"info","message":"Search performed with query: any?\r\nSet-cookie: Tamper=f0e32251-7595-4219-8905-30118fd1985a"}
+{"level":"info","message":"Search performed with query: any\nSet-cookie: Tamper=f0e32251-7595-4219-8905-30118fd1985a"}
+{"level":"info","message":"Search performed with query: any?\nSet-cookie: Tamper=f0e32251-7595-4219-8905-30118fd1985a"}
+{"level":"info","message":"Search performed with query: any\r\nSet-cookie: Tamper=f0e32251-7595-4219-8905-30118fd1985a\r\n"}
+{"level":"info","message":"Search performed with query: any?\r\nSet-cookie: Tamper=f0e32251-7595-4219-8905-30118fd1985a\r\n"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: "}
+{"level":"info","message":"Search performed with query: "}
+{"level":"info","message":"Search performed with query: @"}
+{"level":"info","message":"Search performed with query: +"}
+{"level":"info","message":"Search performed with query: \u0000"}
+{"level":"info","message":"Search performed with query: |"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: undefined"}
+{"level":"warn","message":"Invalid email format attempt: "}
+{"level":"warn","message":"Invalid email format attempt: @"}
+{"level":"warn","message":"Invalid email format attempt: +"}
+{"level":"warn","message":"Invalid email format attempt: \u0000"}
+{"level":"warn","message":"Invalid email format attempt: |"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"error","message":"Server error during login for zaproxy@example.com: data and salt arguments required"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"warn","message":"Invalid email format attempt: <"}
+{"level":"warn","message":"Invalid email format attempt: <xsl:value-of select=\"system-property('xsl:vendor')\"/>"}
+{"level":"warn","message":"Invalid email format attempt: system-property('xsl:vendor')/>"}
+{"level":"warn","message":"Invalid email format attempt: \"/><xsl:value-of select=\"system-property('xsl:vendor')\"/><!--"}
+{"level":"warn","message":"Invalid email format attempt: <xsl:value-of select=\"system-property('xsl:vendor')\"/><!--"}
+{"level":"warn","message":"Invalid email format attempt: <xsl:value-of select=\"document('http://localhost:22')\"/>"}
+{"level":"warn","message":"Invalid email format attempt: <xsl:variable name=\"rtobject\" select=\"runtime:getRuntime()\"/>\n<xsl:variable name=\"process\" select=\"runtime:exec($rtobject,'erroneous_command')\"/>\n<xsl:variable name=\"waiting\" select=\"process:waitFor($process)\"/>\n<xsl:value-of select=\"$process\"/>"}
+{"level":"warn","message":"Invalid email format attempt: <xsl:value-of select=\"php:function('exec','erroneous_command 2>&amp;1')\"/>"}
+{"level":"info","message":"Search performed with query: &lt;"}
+{"level":"info","message":"Search performed with query: &lt;xsl:value-of select=&quot;system-property(&#x27;xsl:vendor&#x27;)&quot;&#x2F;&gt;"}
+{"level":"info","message":"Search performed with query: system-property(&#x27;xsl:vendor&#x27;)&#x2F;&gt;"}
+{"level":"info","message":"Search performed with query: &quot;&#x2F;&gt;&lt;xsl:value-of select=&quot;system-property(&#x27;xsl:vendor&#x27;)&quot;&#x2F;&gt;&lt;!--"}
+{"level":"info","message":"Search performed with query: &lt;xsl:value-of select=&quot;system-property(&#x27;xsl:vendor&#x27;)&quot;&#x2F;&gt;&lt;!--"}
+{"level":"info","message":"Search performed with query: &lt;xsl:value-of select=&quot;document(&#x27;http:&#x2F;&#x2F;localhost:22&#x27;)&quot;&#x2F;&gt;"}
+{"level":"info","message":"Search performed with query: &lt;xsl:variable name=&quot;rtobject&quot; select=&quot;runtime:getRuntime()&quot;&#x2F;&gt;\n&lt;xsl:variable name=&quot;process&quot; select=&quot;runtime:exec($rtobject,&#x27;erroneous_command&#x27;)&quot;&#x2F;&gt;\n&lt;xsl:variable name=&quot;waiting&quot; select=&quot;process:waitFor($process)&quot;&#x2F;&gt;\n&lt;xsl:value-of select=&quot;$process&quot;&#x2F;&gt;"}
+{"level":"info","message":"Search performed with query: &lt;xsl:value-of select=&quot;php:function(&#x27;exec&#x27;,&#x27;erroneous_command 2&gt;&amp;amp;1&#x27;)&quot;&#x2F;&gt;"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Successful login for user: zaproxy@example.com"}
+{"level":"info","message":"Application started successfully"}
+{"level":"info","message":"Application started successfully"}
+{"level":"info","message":"Application started successfully"}
+{"level":"info","message":"Successful login for user: admin@gmail.com"}
+{"level":"warn","message":"Invalid email format attempt: admin'"}
+{"level":"info","message":"Search performed with query: test"}
+{"level":"info","message":"Search performed with query: cybersecurity"}

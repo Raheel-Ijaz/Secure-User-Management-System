@@ -1,0 +1,27 @@
+{
+  "name": "secure-user-management-system",
+  "version": "1.0.0",
+  "description": "Final project for DevelopersHub Cybersecurity Internship - Hardened Node.js application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cybersecurity",
+    "developershub",
+    "infosec",
+    "nodejs"
+  ],
+  "author": "Muhammad Raheel Ijaz",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "validator": "^13.15.35",
+    "winston": "^3.19.0"
+  }
+}
